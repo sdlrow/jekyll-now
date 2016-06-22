@@ -8,4 +8,5 @@ game have 3 endings
 first is neutral ending you can kill or not kill monster 
 second is genocide ending you need kill all monster in the world
 Third is pacifist you will be need  friendlest with all monster and nobody kill
-story: dungerous spoiler 
+
+ 
