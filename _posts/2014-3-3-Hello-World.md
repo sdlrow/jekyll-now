@@ -9,36 +9,6 @@ win at that game you can if change character and he cant to guess him .He ask yo
 
 
 
-int x=20;
-int y=20;
-int dx=12;
-int dy=19;
-void setup () {
-size(600,600);
-background(0,0,255);
-}
-
-void draw(){
-  
-  fill(random(255),random(255),random(255));
-x=dx+x;
-y=dy+y;
-if (x>600)
-dx=dx*-1;
-if (y>600)
-dy=dy*-1;
-if (x<0)
-dx=dx*-1;
-if(y<0)
-dy=dy*-1;
-ellipse(x,y, 20,20);
-quad(x,y, random(10),random(10),random(100),random(10),random(10),random(10));
----
-layout: post
-title: game 
----
-
-
 game producer he/she sell the game and adversvedment game
 ![_config.yml](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6kVvnWYH2W581yaVi4biEfjeWvpuExBe53lL7i18ZCLBfhQPpLw)
 
