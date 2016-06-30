@@ -3,13 +3,6 @@ layout: post
 title: undertale
 ---
 ![_config](https://i.ytimg.com/vi/ZcoqR9Bwx1Y/maxresdefault.jpg)
-Undertale is a role-playing game that utilizes the traditional mechanics normally seen in role-playing games but with a number of differences.
-
-The battle system in Undertale is turn-based and seems to be heavily inspired by bullet-hell games - in particular, the Touhou series - where the protagonist's SOUL, represented by a red heart, must avoid attacks unleashed by the opponent. As the game progresses, new elements are introduced, such as colored obstacles which require the player to stand still or move through them, and boss battles which change the way the heart is controlled. During the player's turn, they have the opportunity to fight the opponent (involving quick-time input), perform actions that can change the opponent's mood, use items, and show mercy by sparing the enemy if the correct actions are used. Killing an enemy will reward EXP and LV, ---
-layout: post
-title: undertale
----
-![_config](https://i.ytimg.com/vi/ZcoqR9Bwx1Y/maxresdefault.jpg)
 Undertale is a role-playing game that utilizes the traditional mechanics normally seen in role-playing games but with a number of differences. neither are given if they are spared; GOLD is earnt in both cases. The game has a large emphasis on the morality of killing and sparing the monsters encountered, as the player's actions determine what ending they will receive. Unlike traditional RPGs, it is possible to complete the game without ever killing a single monster.
 
 The overworld mostly consists of puzzles that the player must solve to progress. Monster battles can also be seen as puzzles, requiring the right set of actions to resolve the fight peacefully. However, should the player decide to commit to murdering every single monster, almost all the puzzles are disabled, and the player is required to grind to progress the game. Unlike traditional RPGs, grinding (under a neutral setting) and backtracking are not mandatory, and no side quests exist within the game.
