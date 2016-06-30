@@ -1,6 +1,6 @@
 ---
 layout: post
-title: undertale
+title: undertale.
 ---
 ![_config](https://i.ytimg.com/vi/ZcoqR9Bwx1Y/maxresdefault.jpg)
 Undertale is a role-playing game that utilizes the traditional mechanics normally seen in role-playing games but with a number of differences. neither are given if they are spared; GOLD is earnt in both cases. The game has a large emphasis on the morality of killing and sparing the monsters encountered, as the player's actions determine what ending they will receive. Unlike traditional RPGs, it is possible to complete the game without ever killing a single monster.
